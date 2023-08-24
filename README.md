@@ -1,6 +1,5 @@
 Header
 
-About me
-
+## I am a beginner Qa engineer/testing
 
 Follow me
